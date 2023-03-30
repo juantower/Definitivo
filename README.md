@@ -1,2 +1,1 @@
-# Definitivo
-este es un repositorio del modulo 2 del prepcourse 
+Este es un proyecto de prueba de escritorio a local
